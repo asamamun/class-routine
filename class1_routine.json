@@ -1,0 +1,65 @@
+{
+    "saturday": {
+        "9:00am-10:00am": "English",
+        "10:00am-11:00am": "Maths",
+        "11:00am-12:00pm": "Science",
+        "12:00pm-1:00pm": "Social Science",
+        "1:00pm-2:00pm": "Bangla",
+        "2:00pm-3:00pm": "Arabic",
+        "3:00pm-4:00pm": "Physics"
+    },
+    "sunday": {
+        "9:00am-10:00am": "Maths",
+        "10:00am-11:00am": "English",
+        "11:00am-12:00pm": "Social Science",
+        "12:00pm-1:00pm": "Bangla",
+        "1:00pm-2:00pm": "Physics",
+        "2:00pm-3:00pm": "Science",
+        "3:00pm-4:00pm": "Physics"
+    },
+    "monday": {
+        "9:00am-10:00am": "Social Science",
+        "10:00am-11:00am": "Maths",
+        "11:00am-12:00pm": "Bangla",
+        "12:00pm-1:00pm": "Bangla",
+        "1:00pm-2:00pm": "Computer Science",
+        "2:00pm-3:00pm": "Physics",
+        "3:00pm-4:00pm": "Computer Science"
+    },
+    "tuesday": {
+        "9:00am-10:00am": "English",
+        "10:00am-11:00am": "Maths",
+        "11:00am-12:00pm": "Science",
+        "12:00pm-1:00pm": "Science",
+        "1:00pm-2:00pm": "Bangla",
+        "2:00pm-3:00pm": "Physics",
+        "3:00pm-4:00pm": "Arabic"
+    },
+    "wednesday": {
+        "9:00am-10:00am": "English",
+        "10:00am-11:00am": "Maths",
+        "11:00am-12:00pm": "Social Science",
+        "12:00pm-1:00pm": "Bangla",
+        "1:00pm-2:00pm": "Arabic",
+        "2:00pm-3:00pm": "Physics",
+        "3:00pm-4:00pm": "English"
+    },
+    "thursday": {
+        "9:00am-10:00am": "English",
+        "10:00am-11:00am": "Arabic",
+        "11:00am-12:00pm": "Bangla",
+        "12:00pm-1:00pm": "Arabic",
+        "1:00pm-2:00pm": "Computer Science",
+        "2:00pm-3:00pm": "Physics",
+        "3:00pm-4:00pm": "Chemistry"
+    },
+    "friday": {
+        "9:00am-10:00am": "",
+        "10:00am-11:00am": "",
+        "11:00am-12:00pm": "",
+        "12:00pm-1:00pm": "",
+        "1:00pm-2:00pm": "",
+        "2:00pm-3:00pm": "",
+        "3:00pm-4:00pm": ""
+    }
+}
